@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1615177661 source:c:\users\admin\documents\c++\btlv.v\src\baseobject.cpp
+	<iostream>
+	"BaseObject.h"
+
+1615175942 c:\users\admin\documents\c++\btlv.v\include\baseobject.h
+	"CommonFunc.h"
+
+1620027189 c:\users\admin\documents\c++\btlv.v\include\commonfunc.h
+	<windows.h>
+	<string>
+	<vector>
+	<ctime>
+	<sstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"TextObject.h"
+
+1620021403 source:c:\users\admin\documents\c++\btlv.v\src\commonfunc.cpp
+	<iostream>
+	"CommonFunc.h"
+
+1615177661 source:c:\users\admin\documents\c++\btlv.v\src\explosionobject.cpp
+	<iostream>
+	"ExplosionObject.h"
+
+1615177660 c:\users\admin\documents\c++\btlv.v\include\explosionobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1615177661 source:c:\users\admin\documents\c++\btlv.v\src\game-map.cpp
+	<iostream>
+	"game-map.h"
+
+1618939995 c:\users\admin\documents\c++\btlv.v\include\game-map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1615177661 source:c:\users\admin\documents\c++\btlv.v\src\geometric.cpp
+	<iostream>
+	"Geometric.h"
+
+1615177661 c:\users\admin\documents\c++\btlv.v\include\geometric.h
+	"CommonFunc.h"
+
+1615177661 source:c:\users\admin\documents\c++\btlv.v\src\imptimer.cpp
+	<iostream>
+	"Imptimer.h"
+	"CommonFunc.h"
+
+1615177661 c:\users\admin\documents\c++\btlv.v\include\imptimer.h
+
+1620028599 source:c:\users\admin\documents\c++\btlv.v\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game-map.h"
+	"MainObject.h"
+	"Imptimer.h"
+	"TextObject.h"
+	"PlayPower.h"
+	"Geometric.h"
+	"ThreatObject.h"
+
+1619951877 c:\users\admin\documents\c++\btlv.v\include\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1619357371 c:\users\admin\documents\c++\btlv.v\include\textobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1619541770 c:\users\admin\documents\c++\btlv.v\include\playpower.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+
+1620025663 source:c:\users\admin\documents\c++\btlv.v\src\playpower.cpp
+	<iostream>
+	"PlayPower.h"
+
+1615177660 source:c:\users\admin\documents\c++\btlv.v\src\textobject.cpp
+	<iostream>
+	"TextObject.h"
+
+1620025397 source:c:\users\admin\documents\c++\btlv.v\src\mainobject.cpp
+	<iostream>
+	"MainObject.h"
+
+1620026581 source:c:\users\admin\documents\c++\btlv.v\src\threatobject.cpp
+	<iostream>
+	"ThreatObject.h"
+
+1620027700 c:\users\admin\documents\c++\btlv.v\include\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1619455128 source:c:\users\admin\documents\c++\btlv.v\src\menu.cpp
+	"Menu.h"
+
+1619358458 c:\users\admin\documents\c++\btlv.v\include\menu.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"TextObject.h"
+
+1615891234 source:c:\users\admin\documents\c++\btlv.v\src\endgame.cpp
+	"EndGame.h"
+
+1615891234 c:\users\admin\documents\c++\btlv.v\include\endgame.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1620072282 source:d:\hang\btlv.v\main.cpp
+	<iostream>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game-map.h"
+	"MainObject.h"
+	"Imptimer.h"
+	"TextObject.h"
+	"PlayPower.h"
+	"Geometric.h"
+	"ThreatObject.h"
+
+1619976788 d:\hang\btlv.v\include\commonfunc.h
+	<windows.h>
+	<string>
+	<vector>
+	<ctime>
+	<sstream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"TextObject.h"
+
+1619306970 d:\hang\btlv.v\include\textobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1615121942 d:\hang\btlv.v\include\baseobject.h
+	"CommonFunc.h"
+
+1618889594 d:\hang\btlv.v\include\game-map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1619901476 d:\hang\btlv.v\include\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1615123660 d:\hang\btlv.v\include\imptimer.h
+
+1619491370 d:\hang\btlv.v\include\playpower.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+
+1615123660 d:\hang\btlv.v\include\geometric.h
+	"CommonFunc.h"
+
+1619977300 d:\hang\btlv.v\include\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1615123660 source:d:\hang\btlv.v\src\baseobject.cpp
+	<iostream>
+	"BaseObject.h"
+
+1619971002 source:d:\hang\btlv.v\src\commonfunc.cpp
+	<iostream>
+	"CommonFunc.h"
+
+1615123660 source:d:\hang\btlv.v\src\game-map.cpp
+	<iostream>
+	"game-map.h"
+
+1615123660 source:d:\hang\btlv.v\src\geometric.cpp
+	<iostream>
+	"Geometric.h"
+
+1615123660 source:d:\hang\btlv.v\src\imptimer.cpp
+	<iostream>
+	"Imptimer.h"
+	"CommonFunc.h"
+
+1619974996 source:d:\hang\btlv.v\src\mainobject.cpp
+	<iostream>
+	"MainObject.h"
+
+1619975262 source:d:\hang\btlv.v\src\playpower.cpp
+	<iostream>
+	"PlayPower.h"
+
+1615123660 source:d:\hang\btlv.v\src\textobject.cpp
+	<iostream>
+	"TextObject.h"
+
+1619976180 source:d:\hang\btlv.v\src\threatobject.cpp
+	<iostream>
+	"ThreatObject.h"
+
